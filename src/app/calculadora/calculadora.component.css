@@ -1,0 +1,9 @@
+button { 
+    font-weight: bold;
+    border-radius: 8px;
+    height: 100px;
+    width: 100px;
+}
+html{
+    background-color: goldenrod;
+}
